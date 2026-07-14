@@ -1,4 +1,4 @@
-# Recurrent Neural Networks for Language Modeling  
+# Language Modeling using RNN and LSTM  
 **DSA4213 Assignment 2 – National University of Singapore**
 
 ## Overview
